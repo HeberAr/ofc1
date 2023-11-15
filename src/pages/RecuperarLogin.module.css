@@ -1,0 +1,199 @@
+.recuperarLoginChild {
+  position: absolute;
+  top: 160px;
+  left: 440px;
+  border-radius: 0px var(--br-11xl) 0px var(--br-11xl);
+  background-color: var(--color-gray);
+  width: 612px;
+  height: 470px;
+}
+.recuperarLoginItem {
+  position: absolute;
+  top: 157px;
+  left: 433px;
+  border-radius: 0px var(--br-11xl) 0px var(--br-11xl);
+  background: linear-gradient(180deg, #f3f3f3, rgba(243, 243, 243, 0));
+  width: 612px;
+  height: 470px;
+}
+.caixaDataRecChild {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-whitesmoke);
+  position: absolute;
+  top: 46px;
+  left: 132px;
+  border-radius: var(--br-3xs);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  box-sizing: border-box;
+  width: 40px;
+  height: 30px;
+}
+.caixaDataRecItem {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-whitesmoke);
+  position: absolute;
+  top: 46px;
+  left: 67px;
+  border-radius: var(--br-3xs);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  box-sizing: border-box;
+  width: 40px;
+  height: 30px;
+}
+.caixaDataRecInner {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-whitesmoke);
+  position: absolute;
+  top: 46px;
+  left: 2px;
+  border-radius: var(--br-3xs);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  box-sizing: border-box;
+  width: 40px;
+  height: 30px;
+}
+.caixaDataRec1 {
+  position: absolute;
+  top: 403px;
+  left: 492px;
+  width: 202px;
+  height: 76px;
+}
+.nome {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.caixaNomeRecChild {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-whitesmoke);
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  box-sizing: border-box;
+  width: 368px;
+  height: 30px;
+}
+.caixaNomeRec1 {
+  position: absolute;
+  top: 235px;
+  left: 494px;
+  width: 368px;
+  height: 62px;
+}
+.caixaRgRec {
+  position: absolute;
+  top: 319px;
+  left: 494px;
+  width: 368px;
+  height: 62px;
+}
+.i {
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  font-size: var(--font-size-smi);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-mediumblue-100);
+  text-align: left;
+  mix-blend-mode: darken;
+}
+.tentarNovamente {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: var(--font-size-smi);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-mediumblue-200);
+  text-align: left;
+  mix-blend-mode: darken;
+}
+.caixaTentarNov1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 511px;
+  left: 499px;
+  width: 113px;
+  height: 21px;
+}
+.recuperandoLogin {
+  position: absolute;
+  top: 11px;
+  left: 78px;
+  display: inline-block;
+  font-weight: 700;
+  width: 467px;
+  height: 38px;
+}
+.caixaRecupLoginChild {
+  position: absolute;
+  top: 0px;
+  left: -4px;
+  width: 603px;
+  height: 46px;
+  object-fit: cover;
+}
+.caixaRecupLogin1 {
+  position: absolute;
+  top: 160px;
+  left: 441px;
+  width: 595px;
+  height: 49px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.caixaEntarChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-deepskyblue);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 153px;
+  height: 30px;
+}
+.entrar {
+  position: absolute;
+  top: 0px;
+  left: 42px;
+  font-size: var(--font-size-6xl);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 76px;
+  height: 26px;
+}
+.caixaEntar1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 569px;
+  left: 677px;
+  width: 153px;
+  height: 30px;
+}
+.recuperarLogin {
+  position: relative;
+  background: linear-gradient(180deg, #fff, #83cbe2 63.54%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 784px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,226 @@
+.barra2Icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 320px;
+  height: 46px;
+  object-fit: cover;
+}
+.agendeSuaConsulta1 {
+  position: absolute;
+  top: 19px;
+  left: 11px;
+  display: inline-block;
+  font-weight: 700;
+  width: 467px;
+  height: 38px;
+}
+.usurio1 {
+  text-decoration: underline;
+}
+.usurio {
+  position: absolute;
+  top: 0px;
+  left: 106px;
+  display: inline-block;
+  font-weight: 700;
+  width: 69px;
+  height: 16px;
+  cursor: pointer;
+}
+.ou {
+  position: absolute;
+  top: 0px;
+  left: 169px;
+  display: inline-block;
+  font-weight: 700;
+  width: 69px;
+  height: 16px;
+}
+.entreComSeu1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: inline-block;
+  font-weight: 700;
+  width: 111px;
+  height: 16px;
+}
+.cadastreSe {
+  position: absolute;
+  top: 0px;
+  left: 190px;
+  text-decoration: underline;
+  display: inline-block;
+  font-weight: 700;
+  width: 111px;
+  height: 16px;
+  cursor: pointer;
+}
+.login {
+  position: absolute;
+  top: 75px;
+  left: 13px;
+  width: 301px;
+  height: 16px;
+}
+.qualExameDeseja1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  width: 229px;
+  height: 16px;
+}
+.qualMdico1 {
+  position: absolute;
+  top: 122px;
+  left: 0px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  width: 229px;
+  height: 16px;
+}
+.hemograma1 {
+  margin: 0;
+  padding-left: var(--padding-xl);
+}
+.hemograma {
+  position: absolute;
+  top: 27px;
+  left: 5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 229px;
+  height: 16px;
+}
+.ureiaECreatininaContainer {
+  position: absolute;
+  top: 84px;
+  left: 5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 229px;
+  height: 16px;
+}
+.colesterol {
+  position: absolute;
+  top: 65px;
+  left: 5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 229px;
+  height: 16px;
+}
+.glicemia {
+  position: absolute;
+  top: 46px;
+  left: 5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 229px;
+  height: 16px;
+}
+.drCarlosAlbertoContainer {
+  position: absolute;
+  top: 149px;
+  left: 5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 229px;
+  height: 16px;
+}
+.drRicardoOliveiraContainer {
+  position: absolute;
+  top: 206px;
+  left: 5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 242px;
+  height: 16px;
+}
+.draCecliaMedeirosContainer {
+  position: absolute;
+  top: 187px;
+  left: 5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 229px;
+  height: 16px;
+}
+.draAdrianaLimaContainer {
+  position: absolute;
+  top: 168px;
+  left: 5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 229px;
+  height: 16px;
+}
+.exameMarca {
+  position: absolute;
+  top: 132px;
+  left: 47px;
+  width: 247px;
+  height: 222px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.agendamentoChild {
+  position: absolute;
+  top: 106.5px;
+  left: 9px;
+  width: 305.5px;
+  height: 1px;
+  object-fit: cover;
+}
+.caixaEntarChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-deepskyblue);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 95px;
+  height: 19px;
+}
+.pronto {
+  position: absolute;
+  top: -1px;
+  left: 10px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 76px;
+  height: 26px;
+}
+.caixaEntar1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 423px;
+  left: 106px;
+  width: 153px;
+  height: 26px;
+}
+.agendamento {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 522px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

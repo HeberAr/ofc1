@@ -1,0 +1,57 @@
+.barra2Icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 422px;
+  height: 43px;
+  object-fit: cover;
+}
+.blog1 {
+  position: absolute;
+  top: 9px;
+  left: -27px;
+  display: inline-block;
+  font-weight: 700;
+  width: 467px;
+  height: 38px;
+}
+.aImportnciaDosExamesDeSa {
+  margin: 0;
+  font-size: var(--font-size-xs);
+}
+.blankLine {
+  margin: 0;
+}
+.aJanelaPara {
+  font-weight: 700;
+}
+.aImportnciaDosContainer {
+  position: absolute;
+  top: 93px;
+  left: 14px;
+  text-align: left;
+  display: inline-block;
+  width: 390px;
+  height: 907px;
+  font-size: var(--font-size-2xs);
+}
+.icon1 {
+  position: absolute;
+  top: 16px;
+  left: 71px;
+  width: 36px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.blog {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1025px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

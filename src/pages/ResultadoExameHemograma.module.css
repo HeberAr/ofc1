@@ -1,0 +1,308 @@
+.introChild {
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 595px;
+  height: 25px;
+  object-fit: cover;
+}
+.protocoloDeResultados1 {
+  position: absolute;
+  top: 1px;
+  left: 64px;
+  display: inline-block;
+  font-weight: 700;
+  width: 467px;
+  height: 38px;
+}
+.icon1 {
+  position: absolute;
+  top: 0px;
+  left: 64px;
+  width: 36px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.intro {
+  position: absolute;
+  top: 6px;
+  left: 0px;
+  width: 595px;
+  height: 40px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.valoresObtidos {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  mix-blend-mode: darken;
+}
+.milhesmm {
+  position: absolute;
+  top: 15px;
+  left: 34px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.g {
+  position: absolute;
+  top: 26px;
+  left: 53px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.div {
+  position: absolute;
+  top: 37px;
+  left: 53px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.valresObtidos {
+  position: absolute;
+  top: 200px;
+  left: 255px;
+  width: 89px;
+  height: 48px;
+}
+.milhesmm1 {
+  position: absolute;
+  top: 15px;
+  left: 26px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.g1 {
+  position: absolute;
+  top: 26px;
+  left: 45px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.div1 {
+  position: absolute;
+  top: 37px;
+  left: 45px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.referencia {
+  position: absolute;
+  top: 200px;
+  left: 495px;
+  width: 81px;
+  height: 48px;
+}
+.mm {
+  position: absolute;
+  top: 13px;
+  left: 49px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.div3 {
+  position: absolute;
+  top: 48px;
+  left: 53px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.valoresLeuObt1 {
+  position: absolute;
+  top: 330px;
+  left: 255px;
+  width: 72px;
+  height: 59px;
+}
+.mm1 {
+  position: absolute;
+  top: 13px;
+  left: 41px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.refernciaLeu {
+  position: absolute;
+  top: 330px;
+  left: 495px;
+  width: 74px;
+  height: 48px;
+}
+.eritrcitos {
+  position: absolute;
+  top: 17px;
+  left: 14px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.hemoglobina {
+  position: absolute;
+  top: 28px;
+  left: 14px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.hemmatcrito {
+  position: absolute;
+  top: 39px;
+  left: 14px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.observaes {
+  position: absolute;
+  top: 50px;
+  left: 14px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.valresEritrograma {
+  position: absolute;
+  top: 200px;
+  left: 32px;
+  width: 75px;
+  height: 61px;
+}
+.observaes1 {
+  position: absolute;
+  top: 59px;
+  left: 14px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.leucograma {
+  position: absolute;
+  top: 330px;
+  left: 32px;
+  width: 75px;
+  height: 70px;
+}
+.valresPlaq {
+  position: absolute;
+  top: 469px;
+  left: 255px;
+  width: 72px;
+  height: 24px;
+}
+.mm3 {
+  position: absolute;
+  top: 13px;
+  left: 40px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.refPlaq {
+  position: absolute;
+  top: 469px;
+  left: 495px;
+  width: 74px;
+  height: 24px;
+}
+.plaquetas {
+  position: absolute;
+  top: 469px;
+  left: 32px;
+  width: 70px;
+  height: 39px;
+}
+.hemogramaCompleto1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 800;
+  mix-blend-mode: darken;
+}
+.div6 {
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  font-weight: 800;
+  mix-blend-mode: darken;
+}
+.exame {
+  position: absolute;
+  top: 164px;
+  left: 23px;
+  width: 128px;
+  height: 15px;
+  font-size: var(--font-size-2xs);
+}
+.paciente {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.emisso {
+  position: absolute;
+  top: 18px;
+  left: 298px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.sexo {
+  position: absolute;
+  top: 18px;
+  left: 149px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.rg {
+  position: absolute;
+  top: 1px;
+  left: 298px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.cpf {
+  position: absolute;
+  top: 1px;
+  left: 149px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.nascimento {
+  position: absolute;
+  top: 18px;
+  left: 0px;
+  font-weight: 300;
+  mix-blend-mode: darken;
+}
+.informaes {
+  position: absolute;
+  top: 64px;
+  left: 126px;
+  width: 344px;
+  height: 31px;
+  font-size: var(--font-size-2xs);
+}
+.resultadoExameHemogramaChild {
+  position: absolute;
+  top: 562.5px;
+  left: 23px;
+  width: 555.5px;
+  height: 2px;
+  object-fit: cover;
+}
+.resultadoExameHemogramaItem {
+  position: absolute;
+  top: 124.5px;
+  left: 27px;
+  width: 555.5px;
+  height: 2px;
+  object-fit: cover;
+}
+.resultadoExameHemograma1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 760px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

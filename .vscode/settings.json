@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "teste2",
+    "id": "6548c676da6663b107bf2d66",
+    "framework": "react",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "c:\\Users\\Héber Pc\\Desktop\\teste1\\src\\components",
+    "screensPath": "c:\\Users\\Héber Pc\\Desktop\\teste1\\src\\pages",
+    "styling": "CSS Modules",
+    "unit": "px",
+    "naming": "Pascal Case"
+  }
+}
